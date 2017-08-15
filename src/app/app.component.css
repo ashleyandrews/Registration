@@ -1,0 +1,15 @@
+.header{
+    font-size: 40px;
+}
+.thanks{
+    color: green;
+}
+form{
+    text-align: left;
+    margin-top: 10px;
+    font: 100 15pt;
+}
+input, input[type=submit], input[type=select]{
+    font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic", Arial, sans-serif;
+    font: 100 15pt; 
+}
